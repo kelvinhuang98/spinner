@@ -1,4 +1,13 @@
-const spinner = ["\r|   ", "\r/   ", "\r-   ", "\r\\   "];
+const spinner = [
+  "\r|   ",
+  "\r/   ",
+  "\r-   ",
+  "\r\\   ",
+  "\r|   ",
+  "\r/   ",
+  "\r-   ",
+  "\r\\   ",
+];
 
 let delay = 100;
 
